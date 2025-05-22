@@ -1,0 +1,9 @@
+name: RTP2
+version: '1.0'
+main: me.not_ryuzaki.rTP2.RTP2
+api-version: '1.21'
+depend: [MainScorePlugin]
+commands:
+  rtp:
+    description: Randomly teleports player
+    usage: /rtp
